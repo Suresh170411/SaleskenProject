@@ -2,7 +2,7 @@
 Students Reporting System  spring boot application
 
 
-![student-report-management-system-1620319712-577](https://i.postimg.cc/BnyLdQv0/Blue-Pink-Gradient-Fashion-Banner.png)
+![student-report-management-system-1620319712-577](https://github.com/Suresh170411/SaleskenProject/blob/main/Images/Blue%20Pink%20Gradient%20Fashion%20Banner.png)
 
 ## About
 Student Reporting System is able to perform all the CRUD based operation and can manage data to the database
