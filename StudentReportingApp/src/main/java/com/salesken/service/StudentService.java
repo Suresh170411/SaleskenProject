@@ -19,6 +19,8 @@ public interface StudentService {
 	
 	Integer getAverageMarksInScience() throws StudentException;
 	
+	List<Student> getAllStudent();
+	
 //	List<Student> top2Students();
 	
 	Student getReportCardOfAStudent(Integer roll) throws StudentException;
