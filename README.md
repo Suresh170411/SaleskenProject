@@ -48,4 +48,34 @@ hassle free.
 ![](https://i.postimg.cc/BvyN60Q5/Screenshot-122.png)
 
 
+## API Root and Endpoint
 
+<br></br>
+
+- Register one student entity 
+- Method : POST
+```
+http://localhost:8888/students
+```
+- Get all the student
+- Method : GET
+```
+http://localhost:8888/students
+```
+- Get avarage marks for semester 1
+- Method : GET
+```
+http://localhost:8888/students/semester1
+```
+
+- Get avarage marks for semester 2
+- Method : GET
+```
+http://localhost:8888/students/semester2
+```
+
+- Find the top 2 students
+- Method : GET
+```
+http://localhost:8888/students/top/2
+```
