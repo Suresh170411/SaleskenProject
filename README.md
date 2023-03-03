@@ -13,6 +13,7 @@ hassle free.
 - Student record can be registerd to the database
 - User can see average percentage of whole class in a recent semester
 - User can see average marks of Students in a particular subject
+- User can see the top 2 student's average marks
 
 
 
