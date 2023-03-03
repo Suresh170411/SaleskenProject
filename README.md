@@ -53,28 +53,28 @@ hassle free.
 
 - Register one student entity 
 - Method : POST
-```go
+```
 http://localhost:8888/students
 ```
 - Get all the student
 - Method : GET
-```go
+```
 http://localhost:8888/students
 ```
 - Get avarage marks for semester 1
 - Method : GET
-```go
+```
 http://localhost:8888/students/semester1
 ```
 
 - Get avarage marks for semester 2
 - Method : GET
-```go
+```
 http://localhost:8888/students/semester2
 ```
 
 - Find the top 2 students
 - Method : GET
-```go
+```
 http://localhost:8888/students/top/2
 ```
