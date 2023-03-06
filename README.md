@@ -51,29 +51,29 @@ hassle free.
 
 ## API Root and Endpoint
 
-- Register one student entity 
+- Register one student entity to the database
 - Method : POST
 ```
 http://localhost:8888/students
 ```
-- Get all the student
+- Get all the student from the database
 - Method : GET
 ```
 http://localhost:8888/students
 ```
-- Get avarage marks for semester 1
+- Get avarage marks of all students for semester 1
 - Method : GET
 ```
 http://localhost:8888/students/semester1
 ```
 
-- Get avarage marks for semester 2
+- Get avarage marks of all students for semester 2
 - Method : GET
 ```
 http://localhost:8888/students/semester2
 ```
 
-- Find the top 2 students
+- Find the avarage marks of top 2 students
 - Method : GET
 ```
 http://localhost:8888/students/top/2
